@@ -1,0 +1,10 @@
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\bin\Debug\Darkest Dungeon Companion.exe.config
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\bin\Debug\Darkest Dungeon Companion.exe
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\bin\Debug\Darkest Dungeon Companion.pdb
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest_Dungeon_Companion.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest_Dungeon_Companion.FrmDarkest.resources
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest_Dungeon_Companion.Properties.Resources.resources
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest_Dungeon_Companion.csproj.GenerateResource.Cache
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest_Dungeon_Companion.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest Dungeon Companion.exe
+C:\Users\Jesse Owens\Desktop\Darkest Dungeon Companion\Darkest Dungeon Companion\obj\Debug\Darkest Dungeon Companion.pdb

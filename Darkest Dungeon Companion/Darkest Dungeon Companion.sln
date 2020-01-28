@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkest_Dungeon_Companion", "Darkest Dungeon Companion\Darkest_Dungeon_Companion.csproj", "{FE327D84-F0AB-496C-BF84-D54A3851D0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE327D84-F0AB-496C-BF84-D54A3851D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE327D84-F0AB-496C-BF84-D54A3851D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE327D84-F0AB-496C-BF84-D54A3851D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE327D84-F0AB-496C-BF84-D54A3851D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665D641F-2D52-44AB-A5BD-18C18BE07508}
+	EndGlobalSection
+EndGlobal
